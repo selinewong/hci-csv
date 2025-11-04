@@ -1,5 +1,5 @@
 timestamp,user,text
-17:15,User,In machine learning, backpropagation is a gradient computation method commonly used for training a neural network in computing parameter updates. It is an efficient application of the chain rule to neural networks.
+17:15,User,Explain backpropagation in neural networks in simple terms.
 17:16,User,what are some uses of it
 17:16,User,backpropagation
 17:17,User,no
